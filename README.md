@@ -1,3 +1,14 @@
+<div align="center">
+
+<img src="https://img.shields.io/badge/Jenius-girly%20tech%20clarity-FFB7C5?style=for-the-badge" alt="Jenius girly tech" />
+<img src="https://img.shields.io/badge/docs-quickstart%20%26%20folder%20map-E8D5FF?style=for-the-badge" alt="Docs" />
+
+**Panduan singkat:** [`docs/quickstart.md`](docs/quickstart.md) · [`docs/folder-map.md`](docs/folder-map.md) · [`CONTRIBUTING.md`](CONTRIBUTING.md) · [`LICENSE`](LICENSE)
+
+</div>
+
+---
+
 <table width="100%">
 <tr>
 <td width="34%" align="center" valign="top">
@@ -593,14 +604,24 @@ flowchart TB
 
 Capsule documentation:
 
-- [`../README.md`](../README.md)
-- [`../docs/quickstart.md`](../docs/quickstart.md)
+- [`README.md`](README.md) (this file)
+- [`docs/quickstart.md`](docs/quickstart.md)
+- [`docs/folder-map.md`](docs/folder-map.md)
+- [`CONTRIBUTING.md`](CONTRIBUTING.md)
 
 The repository README describes the runtime contract. The quickstart should remain the shortest path from clone to a working portfolio.
 
 ---
 
-### `10 / OPERATING STANDARD`
+### `10 / CONTRIBUTING`
+
+🌸 **Jenius collaboration:** small PRs, scroll-safe changes, composition preserved.
+
+Read [`CONTRIBUTING.md`](CONTRIBUTING.md) for the full checklist before opening a pull request.
+
+---
+
+### `11 / OPERATING STANDARD`
 
 ```text
 Preserve the design.
